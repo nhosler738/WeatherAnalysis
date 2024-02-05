@@ -1,0 +1,1 @@
+This is a website that shows the users current weather from JS Geolocation.
